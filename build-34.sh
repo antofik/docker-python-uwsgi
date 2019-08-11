@@ -1,1 +1,1 @@
-sudo docker build -t antofik/python-uwsgi:3.4 .
+sudo docker build -t antofik/python-uwsgi:3.6 .
